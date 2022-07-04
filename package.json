@@ -1,6 +1,6 @@
 {
   "name": "ylan-assets",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "随风的静态资源库",
   "main": "index.js",
   "scripts": {
